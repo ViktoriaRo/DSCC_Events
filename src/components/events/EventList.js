@@ -8,7 +8,7 @@ const EventList = ({events}) => {
            { events && events.map(event => {
                return(
                    <Link to={'/event/' + event.id} key={event.id}> 
-                    <EventSummary event={event} key={event.id}/>
+                    <EventSummary event={event} />
                    </Link>
                )
            })}
