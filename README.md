@@ -1,8 +1,8 @@
 # Description
 
-This is a project for DSCC course. Here you can find frontend part for the web application named _Events_. 
+This is a project for DSCC course. Here you can find frontend part for the web application named _EnLightning_. 
 In this application you can create an account and post your event. Other users will be able to view your event and subscibe
-to it or follow.
+to it or follow. To see the app you should follow this link [EnLightning](https://enlightning-976fd.firebaseapp.com/signin)
 
 ## Dependencies
 For running this application you should install `npm`:
